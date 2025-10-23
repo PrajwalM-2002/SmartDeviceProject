@@ -28,3 +28,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignore IntelliJ IDEA folder
+.idea/
+*.iml
+
+# Ignore build output folder
+out/
